@@ -4,7 +4,7 @@ Building Your App UI
 --------------------
 
 XAML Hot Reload quickly applies UI changes as you make them to your running app.
-This is the most productive way to preview and iteratively create your UI.
+Text
 
 
 
