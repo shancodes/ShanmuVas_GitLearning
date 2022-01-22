@@ -6,6 +6,7 @@ Building Your App UI
 XAML Hot Reload quickly applies UI changes as you make them to your running app.
 Text 
 Change 3
+Change 4
 
 This is Change 1
 
